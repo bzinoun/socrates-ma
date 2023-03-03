@@ -262,12 +262,12 @@ googleAnalytics = "278882533"
 		title = "Our Sponsors"
 		subtitle = ""
 
-    [[params.sponsor]]
+   		[[params.sponsor]]
 			name = "Keiken Digital Solutions"
 			logo = "keiken-logo.jpg"
 			link = "https://keiken-digital.com/"
     
-    [[params.sponsor]]
+   		[[params.sponsor]]
 			name = "Maltem Africa"
 			logo = "maltem-square.jpeg"
 			link = "https://maltem.com/en/blog/portfolio-item/maltem-africa/"
