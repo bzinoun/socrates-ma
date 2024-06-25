@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://socrates-ma.github.io/"
+baseurl = "https://bzinoun.github.io/socrates-ma/"
 languageCode = "en-us"
 title = "SoCraTes-MA"
 description = "International Conference for Software Craft and Testing"
